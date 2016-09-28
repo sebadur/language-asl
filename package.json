@@ -1,6 +1,6 @@
 {
   "name": "language-asl",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ACPI Source Language",
   "repository": {
     "type": "git",
