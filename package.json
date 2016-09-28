@@ -1,0 +1,27 @@
+{
+  "name": "language-asl",
+  "version": "1.0.1",
+  "description": "ACPI Source Language",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sebadur/language-asl"
+  },
+  "bugs": {
+    "url": "https://github.com/sebadur/language-asl/issues"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": "*"
+  },
+  "dependencies": {},
+  "keywords": [
+    "language",
+    "asl",
+    "acpi",
+    "dsl",
+    "dsdt",
+    "syntax",
+    "atom",
+    "editor"
+  ]
+}
